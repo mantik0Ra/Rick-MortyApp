@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Rick&amp;MortyApp</string>
+    <string name="preview">Character details</string>
+    <string name="id">id</string>
+    <string name="info">Information</string>
+    <string name="name">Name: </string>
+    <string name="race">Race: </string>
+    <string name="gender">Gender: </string>
+    <string name="episodes">Amount of episodes: </string>
+    <string name="status">Status: </string>
+    <string name="location">Location: </string>
+
+</resources>
